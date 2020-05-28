@@ -1,0 +1,35 @@
+The following is the work of HersheyCactus
+2020
+AP Computer Science A
+
+All files found in the "proj" directory are my final project files. These are
+what are used to run the program.
+
+-
+
+All extra files found in the directory "misc" were either used as
+reference for my final project, or were earlier versions of my project.
+
+Files used to help me create my project are labeled as such in the top
+few lines with:
+//This is an imported file from Oracle's Java Tutorials archive.
+//None of the following is my work.
+
+Files I created myself that are no longer in use for the project, but are
+still useful to see are labeled as such in the top few lines with:
+// [One or two lines describing the file's previous use]
+// This object is not used in the final project, and as such, complete documentation
+// has not been created.
+
+-
+
+All extra files found in the "images" directory were downloaded from the Java
+example programs zip and are not used in my final project. They are included
+in the case that ButtonDemo.java is tested, and otherwise can be ignored.
+
+-
+
+All extra files found in the "doc" directory are used to access the finished
+Javadoc documentation. All such files are included.
+Within this directory, the "proj" directory can be accessed to find the
+class-specific Javadoc files.

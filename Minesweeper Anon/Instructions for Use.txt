@@ -1,0 +1,14 @@
+The following is the work of HersheyCactus
+2020
+AP Computer Science A
+
+To use the program, please go into the "proj" directory.
+The files there can then be compiled.
+
+Once compiled, to run the program, please only use
+MinesweeperTest.java - This is the only file with a main
+method.
+
+All Javadoc Documentation HTML files can be found in the
+directory "doc"
+All other documentation can be found in the program files themselves. 

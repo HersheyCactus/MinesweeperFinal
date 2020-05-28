@@ -1,0 +1,17 @@
+The following is the work of HersheyCactus
+2020
+AP Computer Science A
+
+The files found in this zip also contain all of the sources I used
+in this project, not counting some select StackOverflow questions
+I used as reference for certain sections of the program.
+
+Examples of areas where I used StackOverflow as a reference may be
+evident in the program being less efficient. Such areas would be:
+- Changing the text color
+- Changing the text size
+- Changing button color
+- Usage of the Box object
+
+Other areas where I may have used code created by others are clearly
+outlined in the Javadoc Documentation.
